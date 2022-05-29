@@ -17,12 +17,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
+https://github.com/joeehis1/qr-component-fem.github.io/blob/5a8944cdafae08da0e9f883ddd9837998acec931/Screenshots/Desktop.png
+https://github.com/joeehis1/qr-component-fem.github.io/blob/5a8944cdafae08da0e9f883ddd9837998acec931/Screenshots/Mobile.png
 
-Update in github
 
 ### Links
 
-Update after deploying
+https://github.com/joeehis1/qr-component-fem.github.io
+https://joeehis1.github.io/qr-component-fem.github.io/
 
 ## My process
 
